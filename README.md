@@ -1,2 +1,2 @@
 # IPTV
-http://gg.gg/iptvvietnga
+http://bom.to/vietngatv
