@@ -215,7 +215,7 @@ https://live-vthn.vieon.vn/vtc/live/hd_vtc13/TV_HD/hd_vtc13_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc14" group-title="VTC SD" tvg-logo="https://i.ibb.co/1LBWyx0/VTC.png",VTC14
 #EXTVLCOPT:http-user-agent=vietngatv
 https://live-vthn.vieon.vn/vtc/live/hd_vtc14/TV_HD/hd_vtc14_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC SD" tvg-logo="https://i.imgur.com/22TpWVd.png",VTC16
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC SD" tvg-logo="https://i.imgur.com/22TpWVd.png",VTC16 - 3NTV
 #EXTVLCOPT:http-user-agent=vietngatv
 https://live-vthn.vieon.vn/vtc/live/hd_vtc16/TV_HD/hd_vtc16_480p/chunks.m3u8
 
