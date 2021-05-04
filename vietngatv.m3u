@@ -1593,6 +1593,18 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.ibb.co/XJ3cy2d/MCM-Top.png",MCM TOP
 #EXTVLCOPT:http-user-agent=vietngatv
 http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY (Belarus)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY [FHD] (Belarus)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY (Belarus)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY [FHD] (Belarus)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rtmp.one.by:2300
 
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TopShop.png",Top Shop TV
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -1801,9 +1813,6 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="KÊNH ĐẶC SẮC",Московский образовательный
 #EXTVLCOPT:http-user-agent=vietngatv
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/5hrNNmL/BelRos.png",БелРос
-#EXTVLCOPT:http-user-agent=vietngatv
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/vxZCXdC/image.png",Родной канал
 #EXTVLCOPT:http-user-agent=vietngatv
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
@@ -2058,12 +2067,33 @@ rtmp://109.248.236.42:1935/live/KSK-TV
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/WGCHY5s/TV1KG.jpg",TV1 KG (Kyrgyzstan)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrBpZhc/KTRK.png" group-title="KÊNH VIỆT NGA TV",КТРК (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qgzYKbL/alatoo.png" group-title="KÊNH VIỆT NGA TV",КТРК Ала-Тоо 24 (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KÊNH VIỆT NGA TV",Маданият Тарых Тил (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LmGCCB/Sport-KTRK.png" group-title="KÊNH VIỆT NGA TV",КТРК Спорт (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhc1tyx/balastan.png" group-title="KÊNH VIỆT NGA TV",КТРК Баластан (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qB2pNTh/music.png" group-title="KÊNH VIỆT NGA TV",КТРК Музыка (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cbwhzcF/image.jpg" group-title="KÊNH VIỆT NGA TV",Любимый HD/ТНТ4 (Kyrgyzstan)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/7zn0nJ1/24.png",Беларусь 24 (Belarus)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/5hrNNmL/BelRos.png",БелРос (Belarus)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Премьер.png",Матч! Премьер (Giải Bóng Đá Nga)
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -2149,3 +2179,6 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sm9kDnR/NTS-SPORT.jpg" group-title="KÊNH THỂ THAO",НТС Спорт (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://212.112.101.69:8081/stream39/output.m3u8
