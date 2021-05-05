@@ -887,6 +887,9 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png",KBS World
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/pRq2cv7/KBSWorldlogobyvovanloc.png",KBS World HD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KBS-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="discovery" tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png" group-title="KÊNH QUỐC TẾ",Discovery Channel | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
