@@ -1237,9 +1237,6 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Домашний.png",Домашний (+4) (Server 2)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hlstv.brn.211.ru/239.211.2.14/stream.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТВ-3.png",ТВ-3
-#EXTVLCOPT:http-user-agent=vietngatv
-http://51.195.44.53:8081/tv/tv3/chunks.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТВ-3.png",ТВ-3 (+4)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
@@ -1378,9 +1375,6 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+4) (Server 2)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hlstv.brn.211.ru/239.211.211.100/stream.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS%20Love.png",СТС Love
-#EXTVLCOPT:http-user-agent=vietngatv
-http://51.68.141.106:8081/tv/sts-love/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS%20Love.png",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
