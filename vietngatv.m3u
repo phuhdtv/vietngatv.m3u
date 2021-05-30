@@ -1067,6 +1067,9 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/RkwhjHA.png",Russia Today News
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/RkwhjHA.png",Russia Today News (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://uiptv.do.am/1ufc/702424953/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/RkwhjHA.png",Russia Today Arabic
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rt-arab-gd.secure2.footprint.net/1104_1600Kb.m3u8
@@ -1082,6 +1085,9 @@ http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="PHIM TÀI LIỆU" tvg-logo="https://i.imgur.com/83rNRcq.png",Russia Today Documentary HD [RUS]
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="PHIM TÀI LIỆU" tvg-logo="https://i.imgur.com/83rNRcq.png",Russia Today Documentary HD [RUS] (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
@@ -1403,8 +1409,8 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/zvezda/playlist.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTVLCOPT:http-user-agent=vietngatv
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
 #EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР (+4)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
@@ -1547,9 +1553,6 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 3)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s36/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 4)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
@@ -1559,6 +1562,9 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24
+#EXTVLCOPT:http-user-agent=vietngatv
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 (Server 2)
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1922,9 +1928,15 @@ http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/16mfLm3/11-Mult.png",Мульт (Server 2)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Мультиландия
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Мультимания
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Мультимания
+#EXTVLCOPT:http-user-agent=vietngatv
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Мультимания (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KÊNH HOẠT HÌNH thế giới" tvg-logo="https://i.ibb.co/TtWftQN/46-Detskij-mir.png",Детский Мир
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2215,9 +2227,6 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/djp19BL/image.png",Наука 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/yy0YpWT.png",ЗОО-ТВ
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s55/04.m3u8
@@ -2293,9 +2302,6 @@ http://live-1.otcnet.ru/shelksd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="KÊNH ĐẶC SẮC",Центральное телевидение
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="KÊNH ĐẶC SẮC",Зоо ТВ (480p)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s92/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="KÊNH ĐẶC SẮC",Дорама (480p)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s95/index.m3u8
