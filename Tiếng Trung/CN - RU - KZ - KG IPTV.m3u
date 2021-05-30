@@ -763,6 +763,9 @@ http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imgur.com/1U7CKCF.png",NETVIET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
@@ -770,13 +773,13 @@ http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/DWpLh9N/MTV-Dance.png",MTV DANCE
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/DWpLh9N/MTV-Dance.png",MTV DANCE [MTV舞蹈]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/pXbWyb2/MTV-Hits.png",MTV HITS
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/pXbWyb2/MTV-Hits.png",MTV HITS [MTV点击]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
