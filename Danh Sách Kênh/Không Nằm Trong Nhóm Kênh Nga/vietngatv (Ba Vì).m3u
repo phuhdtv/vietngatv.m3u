@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Kazakh - Kyrgyz" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD [Khabar24]
+#EXTINF:-1 group-title="Kazakh - Kyrgyz" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 group-title="Kazakh - Kyrgyz" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (Server 2)
