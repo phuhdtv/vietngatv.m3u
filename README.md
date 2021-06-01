@@ -1,3 +1,3 @@
-Link Chinese - Russian - Kazakh - Kyrgyz - IPTV
+Link Ba Vì IPTV
 
-http://gg.gg/Chinese-Russian-Kazakh-Kyrgyz-IPTV
+http://gg.gg/baviiptv
