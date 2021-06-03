@@ -69,3 +69,23 @@ http://92.245.103.126:1935/live/live.stream/chunklist_w1710034375.m3u8
 #EXTINF:0 group-title="Kazakh - Kyrgyz" tvg-logo="https://i.imgur.com/QE61UXL.png",ОшТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.42.115.75/live/oshtv/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png",Setanta Sports 1
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/NC0CYrr/1MusBY.png" group-title="Music",Первый Музыкальный BY (Belarus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-logo="https://i.ibb.co/NC0CYrr/1MusBY.png" group-title="Music",Первый Музыкальный BY [FHD] (Belarus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKmNrTx/1MusRU.png" group-title="Music",Первый Музыкальный RU BY (Belarus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://rtmp.one.by:2200
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKmNrTx/1MusRU.png" group-title="Music",Первый Музыкальный RU BY [FHD] (Belarus)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://rtmp.one.by:2300
