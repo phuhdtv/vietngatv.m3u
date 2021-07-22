@@ -831,12 +831,18 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="fox_family_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/rrihkhj.png",FOX FAMILY MOVIES | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda/foxfamilymovies_vhls.smil/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies HD
+#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies | 1080p
+#EXTVLCOPT:http-user-agent=vietngatv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/1bV8abI.png",FOX LIFE SD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
